@@ -19,11 +19,12 @@
 
 ---
 
-### <<Details / About Me>>
+### <<About Me>>
 
-<p>☆ **Perkerjaan**       : Mahasiswa</p>
-<p>☆ **Sedang mendalami** : C++ // C // HTML // CSS</p>
-<p>☆ **Mimpi Kerja**      : Software Engineer</p>
+<p>☆ **Posisi**             : Mahasiswa</p>
+<p>☆ **Sedang mendalami**   : C++ // C // HTML // CSS</p>
+<p>☆ **Mimpi Kerja**        : Software Engineer</p>
+<br>
  
 **!! Fun Fact** : ????
 
