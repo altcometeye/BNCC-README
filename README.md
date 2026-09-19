@@ -11,7 +11,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="./Design tanpa judul.png" alt="banner" />
+  <img src="./Design tanpa judul.png" width=85% height=200px>
 </p>
 
 <h1 align="center">Ryosuke Ikhsan</h1>
@@ -21,9 +21,9 @@
 
 ### <<Details / About Me>>
 
--☆ **Perkerjaan**       : Mahasiswa
--☆ **Sedang mendalami** : C++ // C // HTML // CSS
--☆ **Mimpi Kerja**      : Software Engineer
+☆ **Perkerjaan**       : Mahasiswa
+☆ **Sedang mendalami** : C++ // C // HTML // CSS
+☆ **Mimpi Kerja**      : Software Engineer
  
 **!! Fun Fact** : ????
 
