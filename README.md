@@ -14,16 +14,16 @@
   <img src="Desain tanpa judul.png" width=85% height=200px>
 </p>
 
-<h1 align="center">Ryosuke Ikhsan</h1>
+<h1 align="center">RYOSUKE IKHSAN</h1>
 <p align="center">Peserta Workshop Git & GitHub || Pemula C/C++</p>
 
 ---
 
 ### <<Details / About Me>>
 
-☆ **Perkerjaan**       : Mahasiswa
-☆ **Sedang mendalami** : C++ // C // HTML // CSS
-☆ **Mimpi Kerja**      : Software Engineer
+<p>☆ **Perkerjaan**       : Mahasiswa</p>
+<p>☆ **Sedang mendalami** : C++ // C // HTML // CSS</p>
+<p>☆ **Mimpi Kerja**      : Software Engineer</p>
  
 **!! Fun Fact** : ????
 
