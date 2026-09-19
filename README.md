@@ -11,7 +11,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="./Design tanpa judul.png" alt="banner" />
 </p>
 
 <h1 align="center">Ryosuke Ikhsan</h1>
@@ -19,11 +19,11 @@
 
 ---
 
-### ** <<Details / About Me>> **
+### <<Details / About Me>>
 
-☆ **Perkerjaan**       : Mahasiswa
-☆ **Sedang mendalami** : C++ // C // HTML // CSS
-☆ **Mimpi Kerja**      : Software Engineer
+-☆ **Perkerjaan**       : Mahasiswa
+-☆ **Sedang mendalami** : C++ // C // HTML // CSS
+-☆ **Mimpi Kerja**      : Software Engineer
  
 **!! Fun Fact** : ????
 
@@ -35,11 +35,8 @@
   <a href="https://linkedin.com/in/username-kamu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/unoriname2468" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:email-kamu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -60,7 +57,7 @@
 ### GitHub Stats (opsional)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altcometeye&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <!--
