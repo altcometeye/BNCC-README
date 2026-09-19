@@ -15,16 +15,17 @@
 </p>
 
 <h1 align="center">Ryosuke Ikhsan</h1>
-<p align="center">Peserta Workshop Git & GitHub || Begineer C/C++ Programer</p>
+<p align="center">Peserta Workshop Git & GitHub || Pemula C/C++</p>
 
 ---
 
-### Details / About Me
+### ** <<Details / About Me>> **
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+☆ **Perkerjaan**       : Mahasiswa
+☆ **Sedang mendalami** : C++ // C // HTML // CSS
+☆ **Mimpi Kerja**      : Software Engineer
+ 
+**!! Fun Fact** : ????
 
 ---
 
