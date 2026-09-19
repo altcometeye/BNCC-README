@@ -11,7 +11,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="Design tanpa judul.png" width=85% height=200px>
+  <img src="Desain tanpa judul.png" width=85% height=200px>
 </p>
 
 <h1 align="center">Ryosuke Ikhsan</h1>
