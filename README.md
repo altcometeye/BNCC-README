@@ -19,7 +19,7 @@
 
 ---
 
-### ABOUT ME  >>
+### << ABOUT ME  >>
 
 ☆ **Posisi**             : Mahasiswa
 
